@@ -1,0 +1,49 @@
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+    list-style: none;
+}
+
+
+p{
+    font-size: 55px;
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    width: 210px;
+    height: 110px;
+    background-color: red;
+    font-size: 70px;
+    color: aliceblue;
+    margin: 0 auto;
+    text-align: center;
+    padding: 150px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
